@@ -633,7 +633,7 @@ In summary, this example generates 4 cases :
 We can also generate a set of case by a cartesian product of an arbitrary number of indexes.
 For example, to generate several measures associated one-by-one with the following markers :
  `matA3`, `matA5`, `matA7`, `matB3`, `matB5`, `matB7`. As show just after in the snippet JSON,
- the cartesian product is automaticallly apply when more than one index is given :
+ the cartesian product is automatically applied when more than one index is given :
 
 [source,json]
 ----
